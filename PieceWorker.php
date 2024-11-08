@@ -23,4 +23,4 @@ class PieceWorker extends Employee {
         return $this->wagePerItem;
     }
 }
-?>
+
