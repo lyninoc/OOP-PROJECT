@@ -30,4 +30,4 @@ abstract class Employee extends Person {
         return $this->type;
     }
 }
-?>
+
